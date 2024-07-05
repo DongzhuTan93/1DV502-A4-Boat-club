@@ -1,0 +1,9 @@
+MEMBER:Margaret Hamilton:Margaret Hamilton:lkd432
+BOAT:apollo1:sailboat:20:4
+BOAT:appollo3:motorboat:20:50
+MEMBER:Allan Turing:Allan Turing:kh654s
+BOAT:enigma:canoe:4
+MEMBER:Barbara Liskov:Barbara Liskov:bg54w2
+MEMBER:Charles Babbage:Charles Babbage:8ww3ls
+MEMBER:dong:dong:rmp9tn
+BOAT:enigma:sailboat:5:6
